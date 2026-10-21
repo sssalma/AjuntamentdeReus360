@@ -1,0 +1,12 @@
+# Dades: el pipeline les descarrega del portal Open Data de Reus
+data/
+
+# Entorns de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Power BI i sistema
+*.pbix.bak
+.DS_Store
+Thumbs.db
